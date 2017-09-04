@@ -1,0 +1,12 @@
+[{
+  "modid": "spawningblockmod",
+  "name": "Spawning Block Mod",
+  "description": "Mod that makes Mobs spawn if they are hit on top of a Spawning Block",
+  "version": "1.0",
+  "mcversion": "1.10.2",
+  "logoFile": "assets/examplemod/textures/logo.png",
+  "url": "minecraftforge.net/",
+  "updateJSON": "minecraftforge.net/versions.json",
+  "authorList": ["Joshua Wong"],
+  "credits": "NONE"
+}]
